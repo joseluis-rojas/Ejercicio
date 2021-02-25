@@ -2,6 +2,7 @@
 Ejercicio para falabella
 
 Pasos:
+0.- estar en el reporsitorio numeros-primos
 1.- npm install
 2.- npm start
 
